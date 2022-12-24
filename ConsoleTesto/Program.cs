@@ -10,6 +10,7 @@ namespace ConsoleTesto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
             Console.WriteLine("blooby");
             Console.WriteLine("hey");
             Console.ReadLine();
